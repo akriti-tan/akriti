@@ -1,3 +1,4 @@
+<p align = "center"> <img src = "https://github.com/boguspack/boguspack/assets/148008503/a02fbb29-684d-4cb6-bc19-f4bb138805ef" />  </p>
 <h1 align="center">Hi 👋, I'm Akriti</h1>
 <h3 align="center">Embracing a mindset of lifelong learning can open up a world of possibilities and keep you at the forefront of innovation.</h3>
 
