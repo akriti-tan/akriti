@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akriti-tan&label=Profile%20views&color=0e75b6&style=flat" alt="akriti-tan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akriti-tan" alt="akriti-tan" /></a> </p>
-
 - 🌱 I’m currently learning **computer networking**
 
 - 💬 Ask me about **cyber security**
